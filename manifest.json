@@ -2,8 +2,8 @@
   "name": "SS Tracker",
   "short_name": "SS Tracker",
   "description": "Sales and Stock Tracker for Dairy and Food Products",
-  "start_url": "./StockTracker_App_v5.html",
-  "scope": "./",
+  "start_url": "https://sabbirahman202-maker.github.io/stocktracker/StockTracker_App_v5.html"
+  "scope": "https://sabbirahman202-maker.github.io/stocktracker/"
   "display": "standalone",
   "background_color": "#1F3864",
   "theme_color": "#1F3864",
